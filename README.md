@@ -48,7 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-<img width="1187" height="904" alt="Screenshot 2026-11-01 204624" src="https://github.com/user-attachments/assets/32f12470-089a-4989-bed6-a84943b02718" />
+<img width="1197" height="920" alt="Screenshot 2026-11-01 205150" src="https://github.com/user-attachments/assets/d6d4eb11-19b2-440a-ba6d-2d7e0956bc98" />
 
 
 
